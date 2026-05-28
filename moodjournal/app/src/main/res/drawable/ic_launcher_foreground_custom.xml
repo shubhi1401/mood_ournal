@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Heart Shape -->
+    <path
+        android:fillColor="#FF85A1"
+        android:pathData="M54,88 C54,88 18,63 18,38 C18,23 33,18 45,28 C51,33 54,38 54,38 C54,38 57,33 63,28 C75,18 90,23 90,38 C90,63 54,88 54,88 Z" />
+
+    <!-- Eyes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,42 A3,3 0 1,1 42,48 A3,3 0 1,1 42,42 Z M66,42 A3,3 0 1,1 66,48 A3,3 0 1,1 66,42 Z" />
+
+    <!-- Smile -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M46,55 Q54,62 62,55" />
+</vector>
