@@ -4,20 +4,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_app_gradient">
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="16dp">
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:gravity="center_vertical"
             android:layout_marginBottom="16dp">
-
             <TextView
                 android:id="@+id/backBtn"
                 android:layout_width="48dp"
@@ -30,7 +27,6 @@
                 android:layout_marginEnd="8dp"
                 android:clickable="true"
                 android:focusable="true"/>
-
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -39,7 +35,6 @@
                 android:textStyle="bold"
                 android:textColor="?android:attr/textColorPrimary"/>
         </LinearLayout>
-
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -47,14 +42,12 @@
             app:cardCornerRadius="28dp"
             app:cardElevation="4dp"
             app:cardBackgroundColor="?attr/colorSurface">
-
             <com.github.mikephil.charting.charts.PieChart
                 android:id="@+id/chart"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="12dp"/>
         </androidx.cardview.widget.CardView>
-
         <!-- Quote Card -->
         <androidx.cardview.widget.CardView
             android:id="@+id/quoteCard"
@@ -65,14 +58,12 @@
             app:cardCornerRadius="24dp"
             app:cardElevation="0dp"
             app:cardBackgroundColor="?attr/colorSurface">
-
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:padding="20dp"
                 android:gravity="center_vertical">
-
                 <TextView
                     android:id="@+id/quoteEmoji"
                     android:layout_width="wrap_content"
@@ -80,7 +71,6 @@
                     android:text="✨"
                     android:textSize="32sp"
                     android:layout_marginEnd="16dp"/>
-
                 <TextView
                     android:id="@+id/moodQuote"
                     android:layout_width="match_parent"
