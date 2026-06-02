@@ -117,22 +117,22 @@ Mood-Journal/
 ## 📸 Screenshots
 
 ### Home Screen
-(screenshots/home_pg.jpeg)
+![Home Screen](screenshots/home_pg.jpeg)
 
 ### Mood Logging
-(screenshots/entry_login.jpeg)
+![Mood Logging](screenshots/entry_login.jpeg)
 
-### Graph
-(screenshots/graph.jpeg)
+### Graph Analytics
+![Graph](screenshots/graph.jpeg)
 
-### Calender
-(screenshots/calender.jpeg)
+### Calendar View
+![Calendar](screenshots/calender.jpeg)
 
-### Histroy
-(screenshots/history.jpeg)
+### History
+![History](screenshots/history.jpeg)
 
-### Music
-(screenshots/music.jpeg)
+### Music Recommendations
+![Music](screenshots/music.jpeg)
 
 ---
 
