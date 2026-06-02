@@ -1,6 +1,8 @@
 # 🌸 Mood Journal
 
-**Track your emotional journey, one emoji at a time.**
+Track your emotional journey, one emoji at a time.
+
+[📥 Download APK](https://github.com/shubhi1401/mood_ournal/releases/download/v1.1/MoodJournal-v1.0.apk) | [💻 Source Code](https://github.com/shubhi1401/mood_ournal)
 
 Mood Journal is a beautifully designed Android application that helps users monitor their mental well-being through mood tracking, journaling, insightful analytics, and music therapy. By combining simple daily logging with data visualization and personalized recommendations, Mood Journal encourages emotional awareness and self-reflection.
 
